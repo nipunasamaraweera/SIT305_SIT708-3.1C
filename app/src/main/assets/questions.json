@@ -1,0 +1,56 @@
+{
+  "questions": [
+    {
+      "question": "What is the slang name for New York City, used by locals?",
+      "options": ["London", "Gotham", "Heaven", "Jungle"],
+      "correct_answer": "Gotham"
+    },
+    {
+      "question": "How many keys does a classic piano have?",
+      "options": ["22", "211", "88", "77"],
+      "correct_answer": "88"
+    },
+    {
+      "question": "Where was the first modern Olympic Games held",
+      "options": ["Athens", "India", "Australia", "United States"],
+      "correct_answer": "Athens"
+    },
+    {
+      "question": "When was Netflix founded?",
+      "options": ["1997", "2001", "2009", "2015"],
+      "correct_answer": "1997"
+    },
+    {
+      "question": "What was the most-watched series on Netflix in 2019?",
+      "options": ["Stranger Things", "You", "Dark", "Ozark"],
+      "correct_answer": "Stranger Things"
+    },
+    {
+      "question": "Name Disney’s first film?",
+      "options": ["Red riding hood", "Tangled", "Snow White", "Wizard of OZ"],
+      "correct_answer": "Snow White"
+    },
+    {
+      "question": "Which planet is known as the 'Morning Star'?",
+      "options": ["Mars", "Venus", "Jupiter", "Mercury"],
+      "correct_answer": "Venus"
+    },
+    {
+      "question": "What’s the smallest country in the world??",
+      "options": ["Vatican", "Sri Lanka", "Greenland", "New Zealand"],
+      "correct_answer": "F. Scott Fitzgerald"
+    },
+    {
+      "question": "What’s the national animal of Australia?",
+      "options": ["Coala", "Dog", "Cat", "Red Kangaroo"],
+      "correct_answer": "Yen"
+    },
+    {
+      "question": "Which famous American pop band was originally called ‘Kara’s Flowers’?",
+      "options": ["Queens", "Westlife", "U2", "Maroon 5"],
+      "correct_answer": "Maroon 5"
+    }
+  ]
+}
+
+
